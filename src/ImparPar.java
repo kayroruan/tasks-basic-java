@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class imparPar {
+public class ImparPar {
     public static void main(String[] args){
         Scanner valor = new Scanner(System.in);
         System.out.print("Informe um número inteiro: ");
